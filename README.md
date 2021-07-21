@@ -7,6 +7,8 @@
 Para poder utilizar este programa se debe instalar [Eclipse](https://www.eclipse.org/downloads/), donde instalaremos el framework de trabajo de Java.
 Este proyecto utiliza Maven y jUnit.
 
+Se debe realizar click derecho en el proyecto, luego de esto seleccionaremos Maven, donde tendremos que seleccionar la opci+on Update Project, esto abrirá una ventana en la que tendremos que presionar el botón Ok.
+
 ## Ejecución
 
 Para poder ejecutar este programa, dentro de Eclipse, podemos realizar la combinación de teclas Ctrl + F11 o presionar Run en la pestaña con el mismo nombre para que este se ejecute.
